@@ -1,6 +1,6 @@
 # IPHTV
 Philippine based maintained IPTV list from various sources.
-Channel List as of 03/26/2026:
+Channel List as of 07/28/2026:
 ```
 A2Z
 AbanteTV
