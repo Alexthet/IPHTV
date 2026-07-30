@@ -30,6 +30,7 @@ ADD CHANNEL:
 AXN Asia
 Aniplus Asia
 Rock Action
+Rock Entertainment (Indo Subtitle)
 Zoo Moo
 ```
 
