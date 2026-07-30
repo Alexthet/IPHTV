@@ -29,6 +29,7 @@ TV5
 ADD CHANNEL:
 AXN Asia
 Zoo Moo
+Rock Action
 ```
 
 LINK TO IPTV M3U:
