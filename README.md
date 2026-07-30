@@ -28,6 +28,7 @@ TV5
 
 ADD CHANNEL:
 AXN Asia
+Zoo Moo
 ```
 
 LINK TO IPTV M3U:
