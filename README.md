@@ -1,4 +1,4 @@
-i8# IPHTV
+# IPHTV
 Philippine based maintained IPTV list from various sources.
 Channel List as of 07/28/2026:
 ```
@@ -30,7 +30,6 @@ AXN Asia
 Aniplus Asia
 KBS World
 Rock Action
-Rock Entertainment (Indo Subtitle)
 Zoo Moo
 ```
 
