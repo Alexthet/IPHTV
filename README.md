@@ -7,7 +7,6 @@ AbanteTV
 ALLTV2
 ANC
 Bilyonaryo News Channel
-Cartoon Channel PH
 CCTN 47
 CINEMO!
 CLTV36
