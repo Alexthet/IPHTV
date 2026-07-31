@@ -28,6 +28,7 @@ TV5
 ADD CHANNEL:
 AXN Asia
 Aniplus Asia
+KBS World
 Rock Action
 Rock Entertainment (Indo Subtitle)
 Zoo Moo
