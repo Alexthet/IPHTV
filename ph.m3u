@@ -61,3 +61,5 @@ https://streams.comclark.com/pknsd/tv5/playlist.m3u8
 https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="Zoo Moo" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="kids",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Singking.ph@SD" tvg-name="Singking Karaoke" group-title="Music",Singking
+https://youtube.com/@singkingkaraoke?si=TAPaXL01bZuoIoGp
