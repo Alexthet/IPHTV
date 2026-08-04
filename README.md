@@ -31,6 +31,7 @@ Aniplus Asia
 KBS World
 Rock Action
 Zoo Moo
+Sing king Karaoke
 ```
 
 LINK TO IPTV M3U:
