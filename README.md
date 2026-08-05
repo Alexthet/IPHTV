@@ -31,7 +31,17 @@ Aniplus Asia
 KBS World
 Rock Action
 Zoo Moo
-Sing king Karaoke
+Baby Shark
+Moonbug kids
+Disney XD
+Nick Jr.
+Nickelodeon
+DreamWorks Channel Asia
+CinemaWorld
+Lotus TV
+BBC America HD
+NBA TV
+Love Nature
 ```
 
 LINK TO IPTV M3U:
