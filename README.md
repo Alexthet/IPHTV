@@ -43,6 +43,8 @@ Lotus TV
 BBC America HD
 NBA TV PHILIPPINES
 Love Nature
+Rock Action
+Rock Entertainment
 
 ADDING CHANNELS:
 Golf Channel
@@ -59,6 +61,13 @@ NBC NETWORK
 NHL
 PFL
 EWTN
+France 24 English
+‎OAN+
+‎AL JAZEERA
+‎Wild Earth Us
+‎RT Documentary
+‎NAT GEO WILD
+‎CGTN Documentary
 ```
 
 LINK TO IPTV M3U:
