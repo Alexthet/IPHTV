@@ -1,27 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A2Z.ph@SD" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General",A2Z (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="A2Z.ph@SD" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="PHILIPPINES",A2Z (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/a2z/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5.ph@SD" tvg-logo="https://i.imgur.com/g3Q1qLK.png" group-title="",TV5 (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="PTV.ph@SD" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="PHILIPPINES",PTV 4 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5.ph@SD" tvg-logo="https://i.imgur.com/g3Q1qLK.png" group-title="PHILIPPINES",TV5 (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/tv5/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="Zoo Moo" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="kids",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="News",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-id="AllTV.ph@SD" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="Entertainment",ALLTV2 (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="AllTV.ph@SD" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="PHILIPPINES",ALLTV2 (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/alltv/playlist.m3u8
 #EXTINF:-1 tvg-id="ANC.ph@SD" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News",ANC (480p)
 https://streams.comclark.com/pknsd/anc/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN Asia" tvg-name="AXNAsia.ph@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia
 https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv
-#EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph@SD" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="Business",Bilyonaryo News Channel (1080p)
+#EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph@SD" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="PHILIPPINES",Bilyonaryo News Channel (1080p)
 https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTN47.ph@SD" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Religious",CCTN 47 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="CCTN47.ph@SD" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="PHILIPPINES",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-id="CineMo.ph@SD" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="Movies",Cinemo (480p)
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
 #EXTINF:-1 tvg-id="CLTV36.ph@SD" tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="General",CLTV 36 (720p) [Not 24/7]
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1 tvg-id="GTV.ph@SD" tvg-logo="https://i.imgur.com/rWhamwh.png" group-title="News",GTV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="GTV.ph@SD" tvg-logo="https://i.imgur.com/rWhamwh.png" group-title="PHILIPPINES",GTV (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/gtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="Religious",Hope Channel Philippines (1080p)
 https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
@@ -45,8 +47,8 @@ https://stream8.cinerama.uz/1448/playlist.m3u8
 https://streams.comclark.com/pknsd/lac/playlist.m3u8
 #EXTINF:-1 tvg-id="MindanowNetworkTV.ph@SD" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="General",Mindanow Network TV
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
-#EXTINF:-1 tvg-id="NBATV.ph@SD" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV
-https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="NBA",TSN 1
+http://40.160.24.55/TSN_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2qNVZ7.png" tvg-country="Malaysia" tvg-language="Tagalog" group-title="Movies",Cinema world
 http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 #EXTINF:-1 tvg-id="Aniplusasia.ph@SD" tvg-name="Aniplus Asia" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="kids",Aniplus asia
@@ -63,8 +65,6 @@ http://40.160.24.52/DISNEY_XD_HD/index.m3u8
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="PremierSports.ph@SD" tvg-logo="https://i.imgur.com/BURPHzI.png" group-title="Sports",Premier Sports (1080p)
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-id="PTV.ph@SD" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="",PTV 4 (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/ptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RockEntertainment.ph@SD" tvg-name="Rock Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Movies",Rock Entertainment
 http://45.144.165.187:8080/live/playidlive/12345/81.m3u8
 #EXTINF:-1 tvg-id="Rockaction.ph@SD" tvg-name="Rock Action" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Movies",Rock Action
@@ -79,3 +79,31 @@ https://cdn12.178.indevs.in/163189/dreamworks
 https://iptv-org.github.io/channels/us/BBCAmerica#EastHD
 #EXTINF:-1 tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="General",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-name="Golf Channel" tvg-logo="https://i.imgur.com/SKTE8Um.png" group-title="Sports",GOLF CHANNEL
+https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png" group-title="NBA",TNS 2
+http://40.160.24.55/TSN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="NBA",TNS 3
+http://40.160.24.55/TSN_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="NBA",TNS 4
+http://40.160.24.55/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.ph@SD" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="NBA",NBA TV PHILIPPINES
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="NBA",NBA TV US
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" group-title="Sports",Espnews
+https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",FSN 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="Sports",MLB Network
+https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Sports",Pluto TV
+https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="Sports",NBC SPORTS NOW
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="Sports",NHL
+http://40.160.24.55/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" group-title="Sports",PFL
+https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="News",EWTN
+https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
