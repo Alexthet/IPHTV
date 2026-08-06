@@ -1,7 +1,8 @@
 # IPHTV
 Philippine based maintained IPTV list from various sources.
-Channel List as of 07/28/2026:
+Channel List as of 08/06/2026:
 ```
+LOCAL CHANNELS:
 A2Z
 AbanteTV
 ALLTV2
@@ -40,8 +41,24 @@ DreamWorks Channel Asia
 CinemaWorld
 Lotus TV
 BBC America HD
-NBA TV
+NBA TV PHILIPPINES
 Love Nature
+
+ADDING CHANNELS:
+Golf Channel
+TNS 1
+TNS 2
+TNS 3
+TNS 4
+NBA TV US
+ESPNEWS
+FSN 1
+MLB NETWORK
+MOTORVISION
+NBC NETWORK
+NHL
+PFL
+EWTN
 ```
 
 LINK TO IPTV M3U:
