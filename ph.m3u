@@ -11,8 +11,6 @@ https://streams.comclark.com/pknsd/anc/playlist.m3u8
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="Asiarush.ph@SD" tvg-name="Asian crush" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="General",Asian Crush
 https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN Asia" tvg-name="AXNAsia.ph@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia
-https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv
 #EXTINF:-1 tvg-name="Baby Shark" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="kids",Baby Shark
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Movies",BBC America HD
