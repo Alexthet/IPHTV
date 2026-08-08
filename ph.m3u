@@ -123,3 +123,5 @@ https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/pl
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" group-title="News",France 24 English
 https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HEzHpzz.png",TSN 5
+http://40.160.24.55/TSN_5/index.m3u8
