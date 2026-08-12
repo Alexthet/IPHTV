@@ -139,3 +139,5 @@ https://streams.comclark.com/pknsd/pbo/playlist.m3u8
 https://streams.comclark.com/pknsd/thrill/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaone@SD.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png" group-title="General",Cinema One
 https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
+#EXTINF:-1 tvg-id="tapmovies@SD.ph" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png
+https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
