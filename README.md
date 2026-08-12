@@ -27,7 +27,7 @@ RPTV
 TV5
 
 INTERNATIONAL TV CHANNEL:
-AXN Asia
+Thrill
 Aniplus Asia
 KBS World
 Rock Action
@@ -69,6 +69,11 @@ France 24 English
 ‎RT Documentary
 ‎NAT GEO WILD
 ‎CGTN Documentary
+PBO
+Viva Cinema
+Cinema one
+GMA
+ONE PH
 ```
 
 LINK TO IPTV M3U:
