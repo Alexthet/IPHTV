@@ -42,7 +42,7 @@ Bilyonario News Channel
 Mindanow Network TV
 TV Maria Philippines
 INC TV
-Kapamilya Channel
+Taglized Movie Channel
 TV5
 PTV
 ALLTV
