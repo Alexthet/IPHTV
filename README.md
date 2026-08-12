@@ -74,6 +74,7 @@ Viva Cinema
 Cinema one
 GMA
 ONE PH
+Tap Movies
 ```
 
 LINK TO IPTV M3U:
