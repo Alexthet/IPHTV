@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="OnePh@SD.ph" tvg-name="One Ph" tvg-logo="https://i.imgur.com/UU2VvGd.png" group-title="General",One Ph
-https://streams.comclark.com/pknsd/one/playlist.m3u8
 #EXTINF:-1 tvg-id="PTV.ph@SD" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="PHILIPPINES",PTV 4
 https://streams.comclark.com/pknsd/ptv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5.ph@SD" tvg-logo="https://i.imgur.com/g3Q1qLK.png" group-title="PHILIPPINES",TV5
 https://streams.comclark.com/pknsd/tv5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="General",TV5 MONDE ASIA
 http://54.37.19.157/TV5MONDE/index.m3u8
-#EXTINF:-1 tvg-id="gmatv@SD.ph" tvg-name="GMA TV" tvg-logo="https://i.imgur.com/cGvKkQy.png" group-title="General",GMA
-https://streams.comclark.com/pknsd/gma/playlist.m3u8
 #EXTINF:-1 tvg-id="A2Z.ph@SD" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="PHILIPPINES",A2Z
 https://streams.comclark.com/pknsd/a2z/playlist.m3u8
 #EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="News",Abante TV
@@ -141,3 +137,5 @@ https://streams.comclark.com/pknsd/thrill/playlist.m3u8
 https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
 #EXTINF:-1 tvg-id="tapmovies@SD.ph" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png
 https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
+#EXINF:- 1 tvg-id=onemedia@SD.ph" tvg-logo=https://i.imgur.com/fyfZkKg.png
+https://streams.comclaek.com/pknsd/onemedia/playlist.m3u8
