@@ -45,6 +45,8 @@ NBA TV PHILIPPINES
 Love Nature
 Rock Action
 Rock Entertainment
+Tagalized Movie Channel
+Tap Edge
 
 ADDING CHANNELS:
 Golf Channel
