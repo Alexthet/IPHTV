@@ -1,10 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PTV.ph@SD" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="PHILIPPINES",PTV 4
-https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+#EXTINF:-1 tvg-id="AllTV.ph@SD" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="PHILIPPINES",ALLTV2
+https://streams.comclark.com/pknsd/alltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AllTV.ph@SD" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="General",ALLTV2 1SEG
+https://streams.comclark.com/pknsd/Alltv/playlist. m3u8
 #EXTINF:-1 tvg-id="TV5.ph@SD" tvg-logo="https://i.imgur.com/g3Q1qLK.png" group-title="PHILIPPINES",TV5
 https://streams.comclark.com/pknsd/tv5/playlist.m3u8
+#EXTINF:-1 tvg-id="RPTV.ph@SD" tvg-logo="https://i.imgur.com/ZgSEwq9.png" group-title="General",RPTV
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+#EXTINF:-1 tvg-id="PTV.ph@SD" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="PHILIPPINES",PTV 4
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="General",TV5 MONDE ASIA
 http://54.37.19.157/TV5MONDE/index.m3u8
+#EXTINF:-1 tvg-id="gmatv@SD.ph" tvg-name="GMA TV" tvg-logo="https://i.imgur.com/cGvKkQy.png" group-title="General",GMA
+https://streams.comclark.com/pknsd/gma7/playlist.m3u8
 #EXTINF:-1 tvg-id="A2Z.ph@SD" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="PHILIPPINES",A2Z
 https://streams.comclark.com/pknsd/a2z/playlist.m3u8
 #EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" group-title="News",Abante TV
@@ -13,8 +21,6 @@ https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 https://amg00222-amg00222c4-amgplt0002.playout.now3.amagi.tv/aljazeera-noscte/playlist.m3u8
 #EXTINF:-1 tvg-id="ANC.ph@SD" tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="News",ANC
 https://streams.comclark.com/pknsd/anc/playlist.m3u8
-#EXTINF:-1 tvg-id="AllTV.ph@SD" tvg-logo="https://i.imgur.com/vuzKeNN.png" group-title="PHILIPPINES",ALLTV2
-https://streams.comclark.com/pknsd/alltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Aniplusasia.ph@SD" tvg-name="Aniplus Asia" tvg-logo="https://i.imgur.com/Im3MePy.png" tvg-country="Philippines" tvg-language="English,Filipino,korean" group-title="kids",Aniplus asia
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-id="Asiarush.ph@SD" tvg-name="Asian crush" tvg-logo="https://i.imgur.com/hW6z1RG.png" group-title="General",Asian Crush
@@ -107,8 +113,6 @@ https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 #EXTINF:-1 tvg-id="RockEntertainment.ph@SD" tvg-name="Rock Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Movies",Rock Entertainment
 http://45.144.165.187:8080/live/playidlive/12345/81.m3u8
-#EXTINF:-1 tvg-id="RPTV.ph@SD" tvg-logo="https://i.imgur.com/ZgSEwq9.png" group-title="General",RPTV
-https://streams.comclark.com/pknsd/rptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary@.phSD" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Educational & Documentary",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png" group-title="NBA",TNS 2
@@ -135,7 +139,11 @@ https://streams.comclark.com/pknsd/pbo/playlist.m3u8
 https://streams.comclark.com/pknsd/thrill/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaone@SD.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png" group-title="General",Cinema One
 https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
-#EXTINF:-1 tvg-id="tapmovies@SD.ph" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png
+#EXTINF:-1,Tap Movies
 https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
-#EXINF:- 1 tvg-id=onemedia@SD.ph" tvg-logo=https://i.imgur.com/fyfZkKg.png
-https://streams.comclaek.com/pknsd/onemedia/playlist.m3u8
+#EXTINF:-1 tvg-id="TapSports@SD.ph" tvg-name="Tap Sports" group-title="General",Tap Sports
+https://streams.comclark.com/pknsd/tapsports/playlist.m3u8
+#EXTINF:-1 tvg-id="TMC.ph@SD" tvg-logo="https://i.imgur.com/jr9Qm2M.png",Tagalized Movie Channel
+https://streams.comclark.com/pknsd/tmc/playlist.m3u8
+#EXTINF:-1,Tap Edge
+https://streams.comclark.com/pknsd/tapedge/playlist.m3u8
