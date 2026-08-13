@@ -72,8 +72,7 @@ France 24 English
 PBO
 Viva Cinema
 Cinema one
-GMA
-ONE PH
+One media
 Tap Movies
 ```
 
