@@ -1,6 +1,6 @@
 # IPHTV
 Philippine based maintained IPTV list from various sources.
-Channel List as of 08/06/2026:
+Channel List as of 08/14/2026:
 ```
 LOCAL CHANNELS:
 A2Z
@@ -25,6 +25,8 @@ Premier Sports 2
 PTV4
 RPTV
 TV5
+DZHR
+Teleradyo Serbisyo
 
 INTERNATIONAL TV CHANNEL:
 Thrill
