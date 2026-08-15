@@ -27,6 +27,15 @@ RPTV
 TV5
 DZHR
 Teleradyo Serbisyo
+Solar Sports
+Solarflix
+UNTV
+GMA
+INCTV
+Light TV
+RJTV
+SMNI
+TV Maria
 
 INTERNATIONAL TV CHANNEL:
 Thrill
@@ -49,8 +58,6 @@ Rock Action
 Rock Entertainment
 Tagalized Movie Channel
 Tap Edge
-
-ADDING CHANNELS:
 Golf Channel
 TNS 1
 TNS 2
